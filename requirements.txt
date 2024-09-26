@@ -1,0 +1,6 @@
+bane
+jinja2
+markupsafe
+filelock
+bs4
+requests
